@@ -1,0 +1,5 @@
+import personas.*
+
+object spa {
+
+}
